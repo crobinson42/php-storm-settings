@@ -19,10 +19,6 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
-  <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="ctrl g" />
-    <keyboard-shortcut first-keystroke="meta g" />
-  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
