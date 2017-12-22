@@ -3,5 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
+    <recentFileMasks>
+      <mask>! .min</mask>
+      <mask>.min</mask>
+      <mask>*!.min</mask>
+      <mask>!*.min</mask>
+      <mask>!.min</mask>
+      <mask>!.min/</mask>
+      <mask>!.min/*</mask>
+      <mask>!.min/*.</mask>
+      <mask>!.min/*.j</mask>
+      <mask>!.min/*.js</mask>
+      <mask>!.m/*.js</mask>
+      <mask>!./*.js</mask>
+      <mask>!/*.js</mask>
+      <mask>/*.js</mask>
+      <mask>*.js</mask>
+      <mask>*.js |</mask>
+      <mask>*.js ||</mask>
+      <mask>*.js ||</mask>
+      <mask>*.js || !</mask>
+      <mask>*.js || !m</mask>
+      <mask>*.js || !min</mask>
+      <mask>*.js || !.min</mask>
+      <mask>!*.js</mask>
+      <mask>!.*.js</mask>
+      <mask>!.m*.js</mask>
+      <mask>!.min*.js</mask>
+      <mask>!.min *.js</mask>
+      <mask>!.min |*.js</mask>
+      <mask>!.min || *.js</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
   </component>
 </application>
